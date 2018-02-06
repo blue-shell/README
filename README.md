@@ -1,5 +1,4 @@
-# configs-concept
-Readme.md with quick overview
+# README
 
 - baloo DISABLED
 - akonadi DISABLED
